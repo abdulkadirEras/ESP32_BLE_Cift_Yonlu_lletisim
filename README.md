@@ -1,1 +1,1 @@
-# ESP32_BLE_Cift_Yonlu_Iletisim
+# ESP32 BLE Çift Yönlü İletişim
