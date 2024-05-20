@@ -1,1 +1,1 @@
-# ESP32_BLE_Cift_Yonl_Iletisim
+# ESP32_BLE_Cift_Yonlu_Iletisim
